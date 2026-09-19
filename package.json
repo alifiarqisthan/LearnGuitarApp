@@ -1,0 +1,9 @@
+{
+  "name": "hey-jude-practice",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A personal guitar chord recall practice prototype",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
